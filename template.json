@@ -1,0 +1,624 @@
+{
+	"editor": {},
+	"engineConfig": {},
+	"map": {
+		"0": "25",
+		"1": "1",
+		"2": "7",
+		"3": "3",
+		"4": "4",
+		"5": "2",
+		"6": "11",
+		"7": "22",
+		"8": "15",
+		"9": "16",
+		"10": "9",
+		"11": "18",
+		"12": "10",
+		"13": "19",
+		"14": "20",
+		"15": "13",
+		"16": "21",
+		"17": "8",
+		"18": "5",
+		"19": "17",
+		"20": "23",
+		"21": "12",
+		"22": "6",
+		"23": "24",
+		"24": "26",
+		"25": "14",
+		"26": "27"
+	},
+	"meta": [
+		{
+			"gameID": "Booklevelconfig",
+			"name": "bookLevelConfig",
+			"type": "bookLevelConfig",
+			"value": {
+				"na": "na"
+			}
+		},
+		{
+			"gameID": "Lighter",
+			"name": "Lighter",
+			"type": "misc"
+		},
+		{
+			"gameID": "Mobile",
+			"name": "Old Mobile Phone",
+			"type": "misc"
+		},
+		{
+			"gameID": "FlatBattery",
+			"name": "Flat Battery (Mobile)",
+			"type": "misc"
+		},
+		{
+			"gameID": "FlickeringLight",
+			"name": "Flickering Light (Lighter)",
+			"type": "misc"
+		},
+		{
+			"gameID": "TextofTerror",
+			"name": "Text of Terror: You learn that you've been placed here for a reason.",
+			"type": "pickup"
+		},
+		{
+			"gameID": "SouthWest",
+			"name": "Travelling the South-West Tunnel",
+			"type": "pickup"
+		},
+		{
+			"gameID": "Ham",
+			"name": "Slimy Ham",
+			"type": "misc"
+		},
+		{
+			"gameID": "BoltCutters",
+			"name": "Bolt Cutters",
+			"type": "misc"
+		},
+		{
+			"gameID": "BrokenPadlock",
+			"name": "Broken Padlock",
+			"type": "pickup"
+		},
+		{
+			"gameID": "CarBattery",
+			"name": "Car Battery",
+			"type": "misc"
+		},
+		{
+			"gameID": "BundleofKeys",
+			"name": "Bundle of Keys",
+			"type": "misc"
+		},
+		{
+			"gameID": "TinnedFood",
+			"name": "Tinned Food",
+			"type": "misc"
+		},
+		{
+			"gameID": "Wallet",
+			"name": "Wallet (Empty)",
+			"type": "misc"
+		},
+		{
+			"gameID": "RodentKiller",
+			"name": "Rodent Killer",
+			"type": "pickup"
+		},
+		{
+			"gameID": "NorthEast",
+			"name": "Travelling the North-East tunnel",
+			"type": "pickup"
+		},
+		{
+			"gameID": "NorthWest",
+			"name": "Travelling the North-West tunnel",
+			"type": "pickup"
+		},
+		{
+			"gameID": "SouthEast",
+			"name": "Travelling the South-East tunnel",
+			"type": "pickup"
+		},
+		{
+			"gameID": "CutWires",
+			"name": "Cut Wires",
+			"type": "misc"
+		},
+		{
+			"gameID": "Cigarettes",
+			"name": "Soggy cigarettes",
+			"type": "misc"
+		}
+	],
+	"section_0": [
+		{
+			"type": "comment",
+			"value": "- - - -> CREDITS <- - - -"
+		},
+		{
+			"type": "align",
+			"value": "center"
+		},
+		{
+			"type": "text",
+			"value": "CREDITS"
+		},
+		{
+			"type": "align",
+			"value": "left"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Sewer Slushie"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Writer - Some Person"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Editors - Some other people"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Illustrator & Cover Artist - Dan Maxwell"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Lead Programmer - Ben Britten Smith"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Producer - Neil Rennison"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Music - The Music guy"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "UI Artist - Neil Rennison"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Intro Animator - Michael McDonald"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Beta testing by some awesome peeps"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Main menu",
+				"sectionID": -1
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Submit a bug report",
+				"sectionID": "-900"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "version"
+		},
+		{
+			"type": "clearline"
+		}
+	],
+	"section_1": [
+		{
+			"type": "font",
+			"value": "bold"
+		},
+		{
+			"type": "text",
+			"value": "A dripping wakes you."
+		},
+		{
+			"type": "font",
+			"value": "normal"
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "You struggle to remain conscious as you become aware of the water all around you. You are soaked in it, caked in mud… or at least you hope it’s mud. All around you is darkness. You have no memory of how you got here, or where ‘here’ is at all."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "You search your pockets for anything useful and find an old mobile phone, a lighter and a pack of cigarettes. You find yourself vaguely disgusted by the soggy death sticks and conclude that you aren’t a smoker."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "But if they aren’t yours then who do they belong to?"
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "pagebreak"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Search the phone?",
+				"sectionID": "2"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Fire up the lighter?",
+				"sectionID": "3"
+			}
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "pickup",
+			"value": {
+				"gameID": "Cigarettes",
+				"qty": "13",
+				"slots": 0
+			}
+		},
+		{
+			"type": "pickup",
+			"value": {
+				"gameID": "Mobile",
+				"qty": 1,
+				"slots": 0
+			}
+		},
+		{
+			"type": "pickup",
+			"value": {
+				"gameID": "Lighter",
+				"qty": 1,
+				"slots": 0
+			}
+		}
+	],
+	"section_2": [
+		{
+			"type": "text",
+			"value": "You try to power up the outdated mobile phone and after several tense moments the screen flashes to life. The soft green glow blinds you for a moment, the darkness having left its impression on you."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "As your eyes adjust you pull up the contact history. A single phone number is displayed with no identifying tag."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "Before you can decide if you want to call the number or not a text message comes in from a blocked number. Fingers numb from the cold, you press the open button. The message reads…"
+		},
+		{
+			"type": "align",
+			"value": "center"
+		},
+		{
+			"type": "text",
+			"value": "”THERE IS NO ESCAPE. YOU WILL PAY FOR THE CRIMES YOU HAVE COMMITTED. MAY YOUR SOUL BE DAMNED TO HELL.”"
+		},
+		{
+			"type": "align",
+			"value": "left"
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "The screen winks out, the battery dead. You stow it for later, hoping you can find a way to charge it and access that unknown number."
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "pagebreak"
+		},
+		{
+			"type": "text",
+			"value": "If you haven’t yet,"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"conditions": [
+					{
+						"prohibited": [
+							{
+								"gameID": "FlickeringLight",
+								"qty": "1"
+							}
+						]
+					}
+				],
+				"link": "fire up the lighter?",
+				"sectionID": "3"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Otherwise,"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"conditions": [
+					{
+						"required": [
+							{
+								"gameID": "FlickeringLight",
+								"qty": "1"
+							}
+						]
+					},
+					{
+						"required": [
+							{
+								"gameID": "TextofTerror",
+								"qty": "1"
+							}
+						]
+					}
+				],
+				"link": "choose your direction of escape?",
+				"sectionID": "4"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "tweet",
+			"value": "Someone left me for dead in #SewerSlushie! Somebody help! @TinManGames #ModernDungeonCrawler"
+		},
+		{
+			"type": "pickup",
+			"value": {
+				"gameID": "TextofTerror",
+				"qty": 1,
+				"slots": 0
+			}
+		},
+		{
+			"type": "pickup",
+			"value": {
+				"gameID": "FlatBattery",
+				"qty": 1,
+				"slots": 0
+			}
+		}
+	],
+	"section_3": [
+		{
+			"type": "text",
+			"value": "Your wet and cold hands fumble with the plastic lighter."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "When the flint finally catches You crowd the flame, taking as much heat as you can from it’s tiny source."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "While you shiver, you look around. The glow from the lighter only extends a couple of meters, but it’s enough. You can see where you are now."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "Water flows from the multitude of different pipes into the central intersection you’ve woken up in. You’re in a sewer, smack bang in the middle of one by the looks of it. Directly above your head you can see a grate that leads to the outside world, but the ladder long ago rusted over and snapped clean off."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "Four junctions lead off at east end of the room. They have plaques above each one simply stating the directions they lead off in. North-east, south-west, north-west and south-east."
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "pagebreak"
+		},
+		{
+			"type": "text",
+			"value": "If you haven’t yet,"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"conditions": [
+					{
+						"prohibited": [
+							{
+								"gameID": "TextofTerror",
+								"qty": "1"
+							}
+						]
+					}
+				],
+				"link": "search the mobile phone?",
+				"sectionID": "2"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "text",
+			"value": "Otherwise,"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"conditions": [
+					{
+						"required": [
+							{
+								"gameID": "FlickeringLight",
+								"qty": "1"
+							}
+						]
+					},
+					{
+						"required": [
+							{
+								"gameID": "TextofTerror",
+								"qty": "1"
+							}
+						]
+					}
+				],
+				"link": "choose your direction of escape?",
+				"sectionID": "4"
+			}
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "pickup",
+			"value": {
+				"gameID": "FlickeringLight",
+				"qty": 1,
+				"slots": 0
+			}
+		}
+	],
+	"section_4": [
+		{
+			"type": "text",
+			"value": "You gaze down each of the tunnels as far as you can see with nothing but the lighter to guide you. Each direction is equally dark and dank, equally terrifying. At this point there is no way for you to tell the difference between them."
+		},
+		{
+			"type": "parabreak"
+		},
+		{
+			"type": "text",
+			"value": "You take out the pack of cigarettes and quickly count them. Thirteen. You have thirteen little death sticks, and thirteen chances to indicate the way back if you get too lost. You prepare to place one in the mouth of the tunnel you choose."
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "pagebreak"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Head down the North-East tunnel?",
+				"sectionID": "5"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Head down the South-West tunnel?",
+				"sectionID": "6"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Head down the North-West tunnel?",
+				"sectionID": "7"
+			}
+		},
+		{
+			"type": "clearline"
+		},
+		{
+			"type": "turnto",
+			"value": {
+				"link": "Head down the South-East tunnel?",
+				"sectionID": "8"
+			}
+		},
+		{
+			"type": "parabreak"
+		}
+	]
+}

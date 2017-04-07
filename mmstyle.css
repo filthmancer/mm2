@@ -1,0 +1,21 @@
+.link {
+  stroke: #000;
+  fill: #000;
+  stroke-width: 4px;
+}
+
+.node {
+  cursor: move;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node.fixed {
+  stroke: #f00;
+  stroke-width: 3.0px;
+}
+
+.node.hover
+{
+	stroke: #FFFF00;
+}

@@ -1,0 +1,11 @@
+{
+	"nodes" : [
+		{"x":250, "y":200, "size":20, "shape":"square", "fill":"#FFF"},
+		{"x":300, "y":200, "size":40, "shape":"circle", "fill":"#FFFF00"},
+		{"x":350, "y":200, "size":10, "shape":"circle", "fill":"#0000FF"}
+	],
+	"links" : [
+		{"source":0, "target":1},
+		{"source":1, "target":2}
+	]
+}
